@@ -1,0 +1,26 @@
+{
+  "name": "playground-node-command-line-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://scottfwalter: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@github.com/scottfwalter/playground-node-command-line-tool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottfwalter/playground-node-command-line-tool/issues"
+  },
+  "homepage": "https://github.com/scottfwalter/playground-node-command-line-tool#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "meow": "^10.1.1",
+    "terminal-link": "^3.0.0"
+  }
+}
